@@ -1,1 +1,5 @@
-# 5025251081-pemograman-web
+# Pemrograman Web C
+
+# Luthfir Rizqy Fathullah Hanggi
+
+# 5025251081
